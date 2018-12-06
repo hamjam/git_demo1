@@ -1,0 +1,8 @@
+git init
+git init [folder name]
+
+git status 
+
+git add [file name]
+git add .
+
